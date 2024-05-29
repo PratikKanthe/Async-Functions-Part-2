@@ -1,4 +1,4 @@
-//Async Fuction Reff : https://github.com/CodeWithHarry/Sigma-Web-Dev-Course/tree/main/Video%2075
+//Async Fuction
 console.log("Thise are Promises");
 
 // let prom1 = new Promise();
